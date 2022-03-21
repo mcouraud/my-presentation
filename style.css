@@ -1,0 +1,62 @@
+body {
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Roboto;
+}
+
+h1, h2 {
+  font-family: Courier;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #ADD8E6;
+}
+
+p {
+  font-family: roboto;
+  text-align: left;
+}
+
+.card {
+  background-color: white;
+  margin-bottom: 20px;
+  width: 500px;
+  padding: 20px;
+  border-radius:  10px;
+  text-align: center;
+}
+
+.circle-image {
+  border-radius: 50%;
+  width: 200px;
+}
+
+.black-button {
+  color: white;
+  background-color: #000000;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.flex {
+  display: flex;
+}
+
+.margin-left-10 {
+  margin-left: 10px;
+}
