@@ -17,6 +17,11 @@ a:hover {
   color: #ADD8E6;
 }
 
+#profile-picture {
+  border-radius: 50%;
+  width: 200px;
+}
+
 .card-white {
   background-color: white;
   margin-bottom: 20px;
@@ -24,11 +29,6 @@ a:hover {
   padding: 20px;
   border-radius:  10px;
   text-align: center;
-}
-
-.img-circle {
-  border-radius: 50%;
-  width: 200px;
 }
 
 .button-black {
